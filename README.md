@@ -1,6 +1,6 @@
 # pyNoiseAnalyzer
 
-This is a code repository to convert and build on Nathan Merchants Matlab code for Noise Analysis
+This is a code repository to convert and build on Nathan Merchant's Matlab code for Noise Analysis
 
 Source Paper:
 
